@@ -1,0 +1,15 @@
+{
+	"name": "adf-ucb-sisger-us-10955",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18b50d67-56fb-4f56-8b20-b45c4a8ca851",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
